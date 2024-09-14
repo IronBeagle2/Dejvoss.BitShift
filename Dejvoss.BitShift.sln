@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dejvoss.BitShift", "Dejvoss.BitShift\Dejvoss.BitShift.csproj", "{1BE6201F-164A-4A8B-AE00-AD4BF93D9A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{08650929-14C7-42A8-8103-D674F1BF752C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE6201F-164A-4A8B-AE00-AD4BF93D9A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE6201F-164A-4A8B-AE00-AD4BF93D9A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE6201F-164A-4A8B-AE00-AD4BF93D9A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE6201F-164A-4A8B-AE00-AD4BF93D9A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08650929-14C7-42A8-8103-D674F1BF752C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08650929-14C7-42A8-8103-D674F1BF752C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08650929-14C7-42A8-8103-D674F1BF752C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08650929-14C7-42A8-8103-D674F1BF752C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92BEDBC9-A470-401E-89A9-BCC3FC0473A3}
+	EndGlobalSection
+EndGlobal
